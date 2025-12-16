@@ -34,9 +34,9 @@ ejercicio 5/
 │  │  └─ emergencias_123_24m_spark.parquet
 │  ├─ curated/
 │  │  └─ emergencias_123_curated.parquet
-│  ├─ Actividad1/                # (opcional) origen inicial del CSV
-│  ├─ Actividad2/                # (opcional) notebook/archivos del dashboard
-│  └─ .venv/                     # entorno virtual usado para ejecución local
+│  ├─ Actividad1/
+│  ├─ Actividad2/
+│  └─ .venv/
 ├─ scripts/
 │  ├─ step1_prepare_24m.py
 │  ├─ fix_parquet_for_spark.py
